@@ -1,0 +1,2854 @@
+{
+  "meta": {
+    "region": "Dakhla‑Oued Eddahab",
+    "source": "RGPH 2024",
+    "retrieved": "2025-05-06T13:10:27+0000",
+    "tables_count": 8
+  },
+  "demographic": [
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 186611.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 167401.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 109038.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 91596.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 77573.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 75805.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 19210.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 17442.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Population municipale",
+      "Valeurs de l'indicateur": 1768.0,
+      "_source_table": "20250505_141842"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 94.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 91.4,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 72.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 68.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 68.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 66.4,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 64.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 64.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 15-59 ans (%)",
+      "Valeur de l'indicateur": 64.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 34.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 33.6,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 32.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 31.7,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 31.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 30.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 29.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 28.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 28.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 27.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 26.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 26.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 26.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 24.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Âge moyen singulier au mariage",
+      "Valeur de l'indicateur": 24.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 22.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 8.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 5.4,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 5.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 5.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 5.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 4.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 4.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 4.7,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 3.4,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de moins de 15 ans (%)",
+      "Valeur de l'indicateur": 2.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population de 60 ans et plus (%)",
+      "Valeur de l'indicateur": 2.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Nombre de ménages",
+      "Valeurs de l'indicateur": 54161.0,
+      "_source_table": "20250505_141856"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Nombre de ménages",
+      "Valeurs de l'indicateur": 46900.0,
+      "_source_table": "20250505_141856"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Nombre de ménages",
+      "Valeurs de l'indicateur": 7261.0,
+      "_source_table": "20250505_141856"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de W.-C. (%)",
+      "Valeur de l'indicateur": 99.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'électricité (%)",
+      "Valeur de l'indicateur": 98.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'eau courante (%)",
+      "Valeur de l'indicateur": 98.4,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'électricité (%)",
+      "Valeur de l'indicateur": 98.3,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires raccordés au réseau public d'assainissement (%)",
+      "Valeur de l'indicateur": 98.3,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une cuisine (%)",
+      "Valeur de l'indicateur": 97.9,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de W.-C. (%)",
+      "Valeur de l'indicateur": 97.9,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'électricité (%)",
+      "Valeur de l'indicateur": 94.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une cuisine (%)",
+      "Valeur de l'indicateur": 94.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de W.-C. (%)",
+      "Valeur de l'indicateur": 89.4,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires raccordés au réseau public d'assainissement (%)",
+      "Valeur de l'indicateur": 87.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'eau courante (%)",
+      "Valeur de l'indicateur": 86.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison marocaine (%)",
+      "Valeur de l'indicateur": 82.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une cuisine (%)",
+      "Valeur de l'indicateur": 74.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison marocaine (%)",
+      "Valeur de l'indicateur": 72.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une pièce d'eau (%)",
+      "Valeur de l'indicateur": 69.4,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une fosse septique (%)",
+      "Valeur de l'indicateur": 68.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une pièce d'eau (%)",
+      "Valeur de l'indicateur": 65.0,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires locataires (%)",
+      "Valeur de l'indicateur": 60.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 10-19 ans (%)",
+      "Valeur de l'indicateur": 53.9,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires locataires (%)",
+      "Valeur de l'indicateur": 53.0,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 10-19 ans (%)",
+      "Valeur de l'indicateur": 51.0,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%)",
+      "Valeur de l'indicateur": 47.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%)",
+      "Valeur de l'indicateur": 40.4,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%)",
+      "Valeur de l'indicateur": 35.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une pièce d'eau (%)",
+      "Valeur de l'indicateur": 35.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%)",
+      "Valeur de l'indicateur": 33.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 10-19 ans (%)",
+      "Valeur de l'indicateur": 31.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires propriétaires (%)",
+      "Valeur de l'indicateur": 30.2,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires propriétaires (%)",
+      "Valeur de l'indicateur": 27.0,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 20-49 ans (%)",
+      "Valeur de l'indicateur": 19.7,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires raccordés au réseau public d'assainissement (%)",
+      "Valeur de l'indicateur": 13.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un appartement (%)",
+      "Valeur de l'indicateur": 13.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 20-49 ans (%)",
+      "Valeur de l'indicateur": 12.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un appartement (%)",
+      "Valeur de l'indicateur": 11.9,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 20-49 ans (%)",
+      "Valeur de l'indicateur": 11.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une fosse septique (%)",
+      "Valeur de l'indicateur": 9.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires propriétaires (%)",
+      "Valeur de l'indicateur": 6.3,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%)",
+      "Valeur de l'indicateur": 6.2,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison marocaine (%)",
+      "Valeur de l'indicateur": 5.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant de l'eau courante (%)",
+      "Valeur de l'indicateur": 5.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Taille moyenne des ménages",
+      "Valeur de l'indicateur": 3.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Taille moyenne des ménages",
+      "Valeur de l'indicateur": 3.4,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Taille moyenne des ménages",
+      "Valeur de l'indicateur": 2.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%)",
+      "Valeur de l'indicateur": 1.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%)",
+      "Valeur de l'indicateur": 1.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires locataires (%)",
+      "Valeur de l'indicateur": 1.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une villa ou un étage de villa (%)",
+      "Valeur de l'indicateur": 0.9,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%)",
+      "Valeur de l'indicateur": 0.8,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement rural (%)",
+      "Valeur de l'indicateur": 0.7,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un appartement (%)",
+      "Valeur de l'indicateur": 0.7,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%)",
+      "Valeur de l'indicateur": 0.7,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une villa ou un étage de villa (%)",
+      "Valeur de l'indicateur": 0.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires disposant d'une fosse septique (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans une villa ou un étage de villa (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement rural (%)",
+      "Valeur de l'indicateur": 0.2,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Part des ménages sédentaires vivant dans un logement rural (%)",
+      "Valeur de l'indicateur": 0.1,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 23.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 23.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 13.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 12.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 10.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 10.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 8.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 1.2,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de chômage (%)",
+      "Valeur de l'indicateur": 0.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 34.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 30.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 30.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 29.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 29.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 29.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 29.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 28.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 28.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 28.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 27.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 27.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 27.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 25.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 25.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études primaire (%)",
+      "Valeur de l'indicateur": 24.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 24.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 23.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 22.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%)",
+      "Valeur de l'indicateur": 22.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 21.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 20.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 19.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 18.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 16.4,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 16.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 15.4,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire collégial (%)",
+      "Valeur de l'indicateur": 15.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 15.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 14.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 14.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 14.4,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 14.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 12.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 12.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études secondaire qualifiant (%)",
+      "Valeur de l'indicateur": 12.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 11.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 10.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 9.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 9.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 9.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 9.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 9.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 5.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études supérieur (%)",
+      "Valeur de l'indicateur": 5.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 2.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 0.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population ayant un niveau d'études préscolaire (%)",
+      "Valeur de l'indicateur": 0.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 86.5,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 86.4,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 84.0,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 83.8,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 82.5,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 81.6,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 79.6,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 70.7,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'arabe (%)",
+      "Valeur de l'indicateur": 69.4,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 29.5,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 27.9,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 17.5,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 15.2,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 14.6,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 13.1,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 12.5,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 10.7,
+      "_source_table": "20250505_141938"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part de la population dont la langue maternelle est l'amazigh (%)",
+      "Valeur de l'indicateur": 10.6,
+      "_source_table": "20250505_141938"
+    }
+  ],
+  "economic": [
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 97.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 93.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 90.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 85.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 85.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 84.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 81.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 73.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 71.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 71.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 69.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 64.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des salariés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 63.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 60.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 56.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 29.1,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 26.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 26.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 23.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'activité des 15 ans et plus (%)",
+      "Valeur de l'indicateur": 23.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 17.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 16.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 15.1,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 14.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 9.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 9.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 9.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 8.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 7.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 7.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des indépendants parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.1,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 3.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 3.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 1.4,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 1.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 1.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.9,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.8,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.7,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.6,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des employeurs parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.3,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.2,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.2,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.2,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.1,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.0,
+      "_source_table": "20250505_141924"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des apprentis parmi les actifs occupés de 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.0,
+      "_source_table": "20250505_141924"
+    }
+  ],
+  "social": [
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Distance moyenne des logements à la route goudronnée (Km)",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Distance moyenne des logements à la route goudronnée (Km)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Distance moyenne des logements à la route goudronnée (Km)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 94.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 94.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 93.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 93.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 93.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 93.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 93.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 92.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de scolarisation des 6-11 ans en 2023/2024 (%)",
+      "Valeur de l'indicateur": 92.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 65.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 64.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 45.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 44.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 42.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 41.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 41.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 41.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 41.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 34.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 34.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 34.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 34.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 32.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 32.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 31.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 24.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 20.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 20.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 19.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 19.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 19.4,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 17.2,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 17.1,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 17.0,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 16.3,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 15.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 14.9,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 14.8,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 14.7,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 14.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 13.4,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 11.6,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux d'analphabétisme des 10 ans et plus (%)",
+      "Valeur de l'indicateur": 10.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 8.5,
+      "_source_table": "20250505_141930"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+      "Valeur de l'indicateur": 7.6,
+      "_source_table": "20250505_141930"
+    }
+  ],
+  "other": [
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": NaN,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 61.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 61.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 58.4,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 57.6,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 56.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 56.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 54.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 50.7,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 49.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 47.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des marié.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 46.7,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 43.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 41.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 37.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 35.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 29.6,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 27.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des célibataires parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 27.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 6.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 6.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 6.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 5.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 4.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 3.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 3.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 3.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 3.0,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 2.26,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 2.26,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 2.25,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 2.25,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des divorcé.e.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 2.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 1.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Indicateur conjoncturel de fécondité",
+      "Valeur de l'indicateur": 1.9,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 1.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Descendance finale des femmes",
+      "Valeur de l'indicateur": 1.8,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.5,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.3,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Part des veuf.ve.s parmi les 15 ans et plus (%)",
+      "Valeur de l'indicateur": 0.1,
+      "_source_table": "20250505_141847"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Titre de l'indicateur": "Nombre moyen de personnes par pièce d'habitation",
+      "Valeur de l'indicateur": 2.0,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Titre de l'indicateur": "Nombre moyen de personnes par pièce d'habitation",
+      "Valeur de l'indicateur": 1.6,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Titre de l'indicateur": "Nombre moyen de personnes par pièce d'habitation",
+      "Valeur de l'indicateur": 1.5,
+      "_source_table": "20250505_141910"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.7,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.7,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Féminin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.4,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.4,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.2,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Urbain",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 2.1,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Ensemble",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 1.9,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Ensemble",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 1.2,
+      "_source_table": "20250505_141918"
+    },
+    {
+      "Zone": "Dakhla-Oued Ed-Dahab",
+      "Milieu": "Rural",
+      "Sexe": "Masculin",
+      "Titre de l'indicateur": "Taux de prévalence du handicap (%)",
+      "Valeur de l'indicateur": 1.1,
+      "_source_table": "20250505_141918"
+    }
+  ]
+}
